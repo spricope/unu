@@ -27,7 +27,7 @@ SECRET_KEY = '697&snwimv!gv@il&x^*oeq=2z9haw4m&enneq++@g245d&%bd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['vast-cliffs-49282.herokuapp.com']
+ALLOWED_HOSTS = ['frozen-shelf-69752.herokuapp.com']
 
 
 # Application definition
